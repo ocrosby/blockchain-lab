@@ -64,8 +64,6 @@ Treat it as a reference you work through after the main sequence rather than as 
 ## Repo layout
 
 - `docs/` — the reference material above; the main product of this repo
-- `notes/` — working notes, summaries, open questions as the author studies
-- `papers/` — reference papers (Nakamoto, Buterin, academic follow-ups)
 - `code/` — small experiments and prototypes that illustrate specific concepts
 
 ## License
